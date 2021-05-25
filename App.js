@@ -16,7 +16,7 @@ const Contacts=React.lazy(()=>import   ('./screens/NavbarScreens/General/Contact
 const CheckStatusAdmin=React.lazy(()=>import   ('./screens/WebAdminPanelScreens/Status/CheckStatus'));
 
 const EnterStatus=React.lazy(()=>import   ('./screens/NavbarScreens/Status/EnterStatusWeb'));
-const EnterStatusAdmin=React.lazy(()=>import   ('./screens/WebAdminPanelScreens/Status/EnterStatus'));
+const EnterStatusAdmin=React.lazy(()=>import   ('./screens/WebAdminPanelScreens/Status/EnterStatus/index'));
 
 const ForgotPasswordWeb=React.lazy(()=>import   ('./screens/ForgotPasswordWeb'));
 
